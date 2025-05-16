@@ -1,0 +1,14 @@
+Patient Name: John Doe
+DOB: 01/01/1970
+
+Chief Complaint: The patient reports chest pain and shortness of breath for the past two days.
+
+History of Present Illness: John has a history of hypertension and was diagnosed with diabetes last year. He denies any recent fever or cough.
+
+Medications: Metformin 500mg daily, Lisinopril 10mg daily.
+
+Allergies: No known drug allergies.
+
+Assessment: Possible myocardial infarction. Will order EKG and cardiac enzymes.
+
+Plan: Admit to cardiology, monitor vitals, start aspirin and heparin.
